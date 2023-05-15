@@ -1,1 +1,2 @@
-# 2g2t
+# Estudo do segundo trimestre 
+João Pedro Gonçalves Davantel - N17
